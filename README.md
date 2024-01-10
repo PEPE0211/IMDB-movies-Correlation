@@ -17,13 +17,3 @@ This project will use statistical techniques to measure the strength and directi
 - **Source**: [Kaggle - Movies Dataset](https://www.kaggle.com/datasets/danielgrijalvas/movies)
 - **Description**: The dataset contains a wide range of information about movies, including data on budget, revenue, ratings, and more.
 
-## Prerequisites
-
-Before you begin with the correlation analysis, ensure you have the following prerequisites in place:
-
-1. **Python Environment**: Install Python 3.x on your system. You can download it from [Python's official website](https://www.python.org/downloads/).
-
-2. **Dependencies**: Install the required Python libraries listed in the `requirements.txt` file using pip:
-
-   ```bash
-   pip install -r requirements.txt
